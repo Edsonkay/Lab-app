@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "designation": "Salas de aulas teroricas",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 2,
+        "designation": "Salas de Informática",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 3,
+        "designation": "Laboratórios de Automação",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 4,
+        "designation": "Laboratórios de Biologia",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 5,
+        "designation": "Laboratórios de CAD",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 6,
+        "designation": "Laboratórios de CNC",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 7,
+        "designation": "Laboratórios de Electrónica",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 8,
+        "designation": "Laboratórios de Energias Renováveis",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 9,
+        "designation": "Laboratórios de Física",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 10,
+        "designation": "Laboratórios de Frio e Climatização",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 11,
+        "designation": "Laboratórios de Instalações Eléctricas",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 12,
+        "designation": "Laboratórios de Máquinas Eléctricas",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 13,
+        "designation": "Laboratórios de Metalomecânica",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 14,
+        "designation": "Laboratórios de Química",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 15,
+        "designation": "Laboratórios de Telecomunicações",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 16,
+        "designation": "Oficinas de Construções Mecânicas",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 17,
+        "designation": "Oficinas de Máquinas e Motores",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    },
+    {
+        "id": 18,
+        "designation": "Oficinas de Soldadura",
+        "function": 0,
+        "notFuntion": 0,
+        "totalNumber": 0
+    }
+  ]
